@@ -10,13 +10,10 @@
     "update": "ncu -u && npm install"
   },
   "dependencies": {
-    "be-enhanced": "0.0.161",
-    "be-hive": "0.0.241",
-    "trans-render": "0.0.871"
+    "be-bound":"0.0.34"
   },
   "devDependencies": {
     "@playwright/test": "1.49.1",
-    "be-eventing": "0.0.5",
     "ssi-server": "0.0.1",
     "xtal-element": "0.0.623"
   },
