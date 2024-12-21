@@ -10,7 +10,7 @@
     "update": "ncu -u && npm install"
   },
   "dependencies": {
-    "be-bound": "0.0.35",
+    "be-bound": "0.0.36",
     "trans-render": "0.0.872"
   },
   "devDependencies": {
