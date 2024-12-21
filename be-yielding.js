@@ -19,5 +19,5 @@ class BeYielding extends BeBound{
 
 }
 
-await BeBound.bootUp();
-export { BeBound };
+await BeYielding.bootUp();
+export { BeYielding };

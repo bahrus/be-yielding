@@ -9,8 +9,8 @@ import { emc as baseEMC } from 'be-bound/emc.js';
  */
 export const emc = {
     ...baseEMC,
-    base: 'be-yielding',
-    enhPropKey: 'be-yielding',
+    base: '🏳️',
+    enhPropKey: '🏳️',
     importEnh: async () => {
         const { BeYielding } = await import('./be-yielding.js');
         return BeYielding;
