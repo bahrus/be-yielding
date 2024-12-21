@@ -2,7 +2,8 @@ import {BeBound} from 'be-bound/be-bound.js';
 /** @import {Actions, PAP, AllProps, AP, BAP, Binding} from './ts-refs/be-bound/types.d.ts' */;
 
 class BeYielding extends BeBound{
-    addRemoteAbs(remoteAbsObj, localShareObj){}
+    addLocalAbs(localAbsObj, remoteShareObj){}
+    //addRemoteAbs(remoteAbsObj, localShareObj){}
 
     /**
      * 
